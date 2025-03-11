@@ -1,0 +1,2 @@
+anthropic==0.34.2
+prompt_toolkit==3.0.47
